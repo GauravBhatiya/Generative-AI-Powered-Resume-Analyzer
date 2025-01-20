@@ -76,3 +76,9 @@ Install the required libraries using the following command:
   - openpyxl
   - pandas
   - google-generativeai
+
+
+# References
+ - [Prompting with PDFs](https://ai.google.dev/gemini-api/docs/document-processing?lang=python)
+ - [Code Execution](https://ai.google.dev/gemini-api/docs/code-execution?lang=python)
+ - [Generate JSON](https://ai.google.dev/gemini-api/docs/structured-output?lang=python)
