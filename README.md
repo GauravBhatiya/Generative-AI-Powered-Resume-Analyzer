@@ -42,7 +42,7 @@ The information is processed using Google’s Generative AI model and saved in a
      - In the Cloud Console, navigate to the **API & Services > Library** section.
      - Search for **"Google Drive API"**.
      - Click on the **Google Drive API** result and enable it for your project.
-     - Same for ** Generative Language API **
+     - Same for **Generative Language API**
   
   4. **Create a Service Account**:
      - In the Cloud Console, go to **IAM & Admin > Service Accounts**.
